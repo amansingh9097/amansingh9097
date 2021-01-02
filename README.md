@@ -1,4 +1,4 @@
-### Hi there, I'm Aman 👋
+### Hi there, I'm Aman <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
 [![Website](https://img.shields.io/website?label=aman-singh.com&style=for-the-badge&url=https%3A%2F%2Faman-singh.com)](https://aman-singh.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/yum_dude?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fyum_dude&screen_name=yum_dude)
@@ -7,14 +7,24 @@ I am a self-taught data scientist from India currently working remotely from Hyd
 
 - 👨‍💻 I’m currently working in the [Sustainable Development](https://www.un.org/development/desa/dspd/2030agenda-sdgs.html) sector as Sr. Data Scientist for [DAI](https://www.dai.com/)
 - 🎨 Apart from work, I love canvas painting with palette knife and 🏋️‍♀️ working out in the gym
-- 🥅 2020 - 2021 Goals:
+- 🥅 My 2021 Goals:
   - Start a blog
   - Start thinking/working towards that "million-dollar" idea
   - Move-in to a lavish house/society with parents - make parents proud ✔
   - Get below 15% body-fat percentage
   - Contribute more towards Open Source projects
 
+![Aman's github stats](https://github-readme-stats.vercel.app/api?username=amansingh9097&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amansingh9097&layout=compact&theme=dark)](https://github.com/amansingh9097/github-readme-stats)
+
+![image title](https://rushter.com/counter.svg)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=amansingh9097&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### Connect with me:
+
+:email: "amansingh9097@gmail.com"<br>
 
 [<img align="left" alt="aman-singh.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 <!-- [<img align="left" alt="amansingh9097 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium] -->
@@ -25,15 +35,6 @@ I am a self-taught data scientist from India currently working remotely from Hyd
 
 <br />
 <br />
-
----
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="amansingh9097's Github Stats" src="https://github-readme-stats.vercel.app/api?username=amansingh9097&show_icons=true&hide_border=true" />
-
-</details>
-
 
 [website]: https://aman-singh.com/
 [twitter]: https://twitter.com/yum_dude/
