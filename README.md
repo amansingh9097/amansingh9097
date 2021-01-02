@@ -16,19 +16,20 @@ I am a self-taught data scientist from India currently working from Hyderabad.
 
 ![Aman's github stats](https://github-readme-stats.vercel.app/api?username=amansingh9097&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amansingh9097&layout=compact&theme=dark)](https://github.com/amansingh9097/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amansingh9097&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![image title](https://rushter.com/counter.svg)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=amansingh9097&theme=darkhub)
+[![trophy](https://github-profile-trophy.vercel.app/?username=amansingh9097&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Connect with me:
 
 :email: "amansingh9097@gmail.com"<br>
 
-[<img align="left" alt="aman-singh.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="aman-singh.com" width="22px" color="white" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 <!-- [<img align="left" alt="amansingh9097 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium] -->
 <!-- [<img align="left" alt="amansingh9097 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
+[<img align="left" alt="aman-singh | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg" />][stackoverflow]
 [<img align="left" alt="yum_dude | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="amansingh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="amansingh9097 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
@@ -41,4 +42,5 @@ I am a self-taught data scientist from India currently working from Hyderabad.
 <!-- [youtube]: https://www.youtube.com/channel/amansingh9097/ -->
 [linkedin]: https://linkedin.com/in/amansingh/
 <!-- [medium]: https://medium.com/@loganyang -->
+[stackoverflow]: https://stackoverflow.com/users/2397119/aman-singh/
 [instagram]: https://instagram.com/amansingh9097/
