@@ -88,6 +88,6 @@ I am a self-taught data scientist from India currently working from Hyderabad.
 [aws]: https://aws.amazon.com/
 [gcp]: https://cloud.google.com/compute
 [azure]: https://azure.microsoft.com/en-in/
-[linux]: https://ubuntu.com/
+[linux]: https://www.linux.org/
 [windows]: https://www.microsoft.com/
 [github]: https://github.com/amansingh9097/
