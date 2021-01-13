@@ -7,12 +7,6 @@ I am a self-taught data scientist from India currently working from Hyderabad.
 
 - 👨‍💻 I’m currently working in the [Sustainable Development](https://www.un.org/development/desa/dspd/2030agenda-sdgs.html) sector as Sr. Data Scientist for [DAI](https://www.dai.com/)
 - 🎨 Apart from work, I love canvas painting with palette knife and 🏋️‍♀️ working out in the gym
-- 🥅 My 2021 Goals:
-  - Start a blog
-  - Start thinking/working towards that "million-dollar" idea
-  - Move-in to a lavish house/society with parents - make parents proud ✔
-  - Get below 15% body-fat percentage
-  - Contribute more towards Open Source projects
 
 ![Aman's github stats](https://github-readme-stats.vercel.app/api?username=amansingh9097&show_icons=true&theme=dark)
 
