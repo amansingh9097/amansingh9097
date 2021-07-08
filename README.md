@@ -5,7 +5,7 @@
 
 I am a self-taught data scientist from India currently working from Hyderabad.
 
-- 👨‍💻 I’m currently working as Principal Data Scientist for [PeopleTech Inc.](https://peopletech.com/)
+- 👨‍💻 I’m currently working as **Data Scientist II** for **Amazon**.
 - 🎨 Apart from work, I love canvas painting with palette knife and 🏋️‍♀️ working out in the gym
 - 🍿 Watching Documentaries and Conspiracy Theories.
 
